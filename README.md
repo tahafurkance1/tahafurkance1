@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taha Furkan</h1>
 <h3 align="center">Computer Engineering Student at Dokuz Eylul University</h3>
 
-- 🔭 I’m currently working on [Electric Car Charging Solution](https://github.com/gokaycavdar/EnerjiMetre)
+- 🔭 I’m currently working on [Electric Car Charging Solution, EnerjiMetre](https://github.com/gokaycavdar/EnerjiMetre)
 
 - 🌱 I’m currently learning **Data Science, Edge AI, Internet of Things**
 
